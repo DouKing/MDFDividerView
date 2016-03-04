@@ -1,3 +1,3 @@
 # MDFDividerView
 
-多触点选择器
+分段选择器视图
